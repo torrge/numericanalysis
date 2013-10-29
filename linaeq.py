@@ -59,7 +59,7 @@ def gaussSiedel(a,b,tolerace):
     
     r = max(map(abs,eigs))
     if r >= 1:
-        print 'is convergent using Gauss-Seidel method, Try Jacobi please.'    
+        print 'is not convergent using Gauss-Seidel method, Try Jacobi please.'    
         return null
 
     # begin to iterate to solve the equation group.
