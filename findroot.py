@@ -22,7 +22,7 @@
 
 
 
-#This program, as <Numerical Analysisis> homework, used for find root of unitary equation. Under BSD Lisence
+#This program, as <Numerical Analysisis> homework, used for finding root of unitary equation. Under BSD Lisence
 
 
 
